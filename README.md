@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning new tools related to the field
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Reach me through linkedin : www.linkedin.com/in/hardik-vig007
 
 <!---
 Datamindin/Datamindin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
