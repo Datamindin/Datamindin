@@ -5,14 +5,12 @@ I'm a passionate Data Analyst with a strong background in crunching numbers, der
 
 I'm always on a quest to uncover the hidden treasures within data and transform them into actionable knowledge.
 
-About Me
-🌐 Constantly exploring the ever-evolving world of data analytics, statistics, and visualization.
+🌐About Me:  Constantly exploring the ever-evolving world of data analytics, statistics, and visualization.
 
-My Work
-I love working on various data projects. 
+My Work: I love working on various data projects. 
 You will find recent projects on SQL, Python, machine learning, and PowerBI in my repository:
 
-What I Love
+What I Love : 
 📈 Data Analysis
 📊 Data Visualization
 📉 Statistical Modeling
