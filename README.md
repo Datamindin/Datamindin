@@ -1,10 +1,12 @@
 Hello, I’m Hardik as @Datamindin
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in crunching numbers, deriving insights, and telling data-driven stories. I'm always on a quest to uncover the hidden treasures within data and transform them into actionable knowledge.
+Welcome to my GitHub profile! 
+I'm a passionate Data Analyst with a strong background in crunching numbers, deriving insights, and telling data-driven stories.
+I'm always on a quest to uncover the hidden treasures within data and transform them into actionable knowledge.
 
 About Me
 🌐 Constantly exploring the ever-evolving world of data analytics, statistics, and visualization.
 My Work
-I love working on various data projects. You will find recent projects on SQL/Python/Machine Learning/Power_Bi in my repository:
+I love working on various data projects. You will find recent projects on SQL, Python, machine learning, and PowerBI in my repository:
 
 What I Love
 📈 Data Analysis
